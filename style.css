@@ -1,0 +1,75 @@
+
+#TheBody{
+	background-color: black;
+}
+
+.StdDiv{
+    display: none;
+}
+
+div.ExerciseContainer{
+    border: 0 !important;
+    border-radius: 50px;
+}
+
+input{
+    border-radius: 20%;
+    padding: 4px;
+    margin-right: 8px;
+    font-weight: 500;
+    font-size: medium !important;
+    height: 28.8px !important;
+    width: 190px !important;
+    color: #fff;
+    background-color: rgb(28,28,30);
+    box-shadow: 0 0 .4vw hsl(0, 0%, 0%), 0 0 0 .15vw transparent;
+    border-radius: 0.4vw;
+    border: none;
+    outline: none;
+    padding: 0.4vw;
+    max-width: 190px;
+    transition: .4s;
+    margin-left: 10px;   
+}
+
+.input:hover {
+  box-shadow: 0 0 0 .15vw rgba(135, 207, 235, 0.186);
+}
+
+.FuncButton{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+  background: rgb(145, 92, 182);
+  padding: 15px 40px;
+  font-weight: normal;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  margin-left: 10px
+}
+
+.FuncButton:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px hwb(0 100% 0%);
+  border: none;
+}
+
+#FeedbackDiv{
+    background-color:hsla(0, 2%, 42%, 0.138);
+    border-radius: 20px;
+    text-emphasis-color: grey
+    ;
+    
+}
+
+#ClueEntry{
+    font-size: 1.3rem;
+}
+
+.FuncButton{
+    border-radius: 50px;
+}
+
+#CheckButton2{
+    display: none;
+}
+
