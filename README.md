@@ -1,4 +1,5 @@
-# CSS Project: Effects of Honesty
+# CSS Project: 
+# Effects of Honesty
 
 ## Overview
 This project is a Jcross-based crossword puzzle that explores the theme of honesty and its effects on individuals and society. The HTML structure is derived from Jcross, and CSS has been applied to enhance the visual appeal and functionality of the crossword.
